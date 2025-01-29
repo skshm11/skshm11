@@ -9,6 +9,11 @@
 <br/>
 
 <div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
+
+<div align="center">
  
  🔭 I’m currently working on **Distributed Systems & Cloud Computing projects**
  
