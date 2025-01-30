@@ -13,10 +13,10 @@
         </td>
         <td>
             <ul>
-                <li>🛠️ I’m currently working on <strong>Distributed Systems & Cloud Computing projects</strong></li>
-                <li>🌱 I’m currently learning <strong>Kubernetes, AWS, and GraphQL</strong></li>
+                <li>🛠️ I’m currently working on <strong>Distributed Systems & Cloud Computing projects.</strong></li>
+                <li>🌱 I’m currently learning <strong>Kubernetes, AWS, and GraphQL.</strong></li>
                 <li>💬 Ask me about <strong>Java, Spring Boot, Docker, or anything <a href="https://github.com/skshm11/skshm11/issues">here</a></strong></li>
-                <li>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong></li>
+                <li>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs.</strong></li>
             </ul>
         </td>
     </tr>
@@ -53,7 +53,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/skshm11/skshm11/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -73,8 +73,20 @@
 
 <br/>
 
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
 <div align="center">
 <a href='https://ko-fi.com/sakshamnasa' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
+<br>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 <br/>
