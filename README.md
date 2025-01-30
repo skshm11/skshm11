@@ -38,7 +38,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,azure,mysql,mongodb,postgres,graphql,redis" />
@@ -48,7 +48,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/skshm11/skshm11/output/github-contribution-grid-snake.svg" />
@@ -58,7 +58,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=skshm11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -71,9 +71,9 @@
 
 <hr/>
 
-<br/>
 
-<h3 align="left">✨ Random Dev Quote::</h3>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
